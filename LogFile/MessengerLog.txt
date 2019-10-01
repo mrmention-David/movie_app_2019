@@ -1,0 +1,26 @@
+[04/25-14:15:53][INFO]-(Login)Get Settings Information
+[04/25-14:15:53][INFO]-(RunWorkerCompleted)Check Update
+[04/25-14:15:53][INFO]-(RunWorkerCompleted)Make AuthKey
+[04/25-14:15:53][ERROR]-(DoWork)오피스 정보가 없습니다. 다시 확인하세요.
+[04/25-14:17:00][INFO]-(Login)Get Settings Information
+[04/25-14:17:00][INFO]-(RunWorkerCompleted)Check Update
+[04/25-14:17:00][INFO]-(RunWorkerCompleted)Make AuthKey
+[04/25-14:17:01][INFO]-(RunWorkerCompleted)Get Organization
+[04/25-14:17:01][INFO]-(SelectedGroupId)mrmention.onhiworks.com
+[04/25-14:17:01][INFO]-(RunWorkerCompleted)Get Favorites
+[04/25-14:17:01][INFO]-(RunWorkerCompleted)Get Mobile Information
+[04/25-14:17:01][INFO]-(SelectedGroupId)mrmention.onhiworks.com
+[04/25-14:17:01][INFO]-(Connect)wss://msg1.hiworks.co.kr:6006
+[04/25-14:17:01][ERROR]-(ShowErrorMessage)   위치: Messenger.Views.MainWindow.SetUnReadCount()
+   위치: Messenger.ViewModels.MainWindowModel.OnCompleateEvent(Object sender, EventArgs e)
+   위치: Messenger.Models.Count.RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)
+   위치: System.ComponentModel.BackgroundWorker.OnRunWorkerCompleted(RunWorkerCompletedEventArgs e)
+   위치: System.ComponentModel.BackgroundWorker.AsyncOperationCompleted(Object arg)
+   위치: System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   위치: System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+[04/25-14:17:01][INFO]-(OnOpened)Connected Server
+[04/25-14:17:02][INFO]-(CallCheckTimeBreak)Call CheckTimeBreak
+[04/25-14:17:02][ERROR]-(DoWork)개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+[04/25-14:17:02][ERROR]-(RunWorkerCompleted)CheckTimeBreak Error    ErrorCode : -3
+[04/25-14:17:08][INFO]-(SelectedGroupId)mrmention.onhiworks.com
+[04/25-19:00:49][INFO]-(OnSessionEnding)Windows Logout or Exit
